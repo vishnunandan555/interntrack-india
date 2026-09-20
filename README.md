@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-09-20 04:48:39 IST** · 📌 **17** open internships
+> 🕐 Last updated: **2026-09-21 04:51:48 IST** · 📌 **18** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (17)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (18)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -36,7 +36,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | CrowdStrike | — |
 | Databricks | — |
 | Datadog | — |
-| Dell Technologies | — |
+| [Dell Technologies](#dell-technologies) | **1** |
 | Elastic | — |
 | Freshworks | — |
 | GitHub | — |
@@ -118,6 +118,14 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 ## 💼 Open Internship Postings
 
+## Dell Technologies
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Undergraduate Intern](https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/R270849) ✨ | Software | Bengaluru | 2026-09-20 | 2026-09-20 |
+
+[⬆️ Back to Top](#top)
+
 ## Google
 
 | Role | Category | Hub / Location | Posted | First seen |
@@ -193,7 +201,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190889) ✨ | Software | Remote (India) | 2026-09-16 | 2026-09-17 |
+| [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190887) ✨ | Software | Remote (India) | 2026-09-16 | 2026-09-20 |
 
 [⬆️ Back to Top](#top)
 

@@ -1,19 +1,24 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-09-19 23:17:22 UTC
+SCRAPE RUN SUMMARY — 2026-09-20 23:20:33 UTC
 ========================================================================
-Runtime:            77.1 seconds
+Runtime:            74.4 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
-Active India Roles: 17
+Active India Roles: 18
 Changes Detected:
-  - New Additions:  +0
-  - Closed Roles:   -2
+  - New Additions:  +2
+  - Closed Roles:   -1
   - Reopened Roles: ~0
 ------------------------------------------------------------------------
 
+[NEW INTERNSHIPS ADDED]
+  + Dell Technologies — Undergraduate Intern (Bengaluru) [Software]
+    Apply: https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/R270849
+  + Twilio — Software Engineer Intern (January 12th start, 23 weeks) (Remote (India)) [Software]
+    Apply: https://job-boards.greenhouse.io/twilio/jobs/8190887
+
 [INTERNSHIPS CLOSED]
-  - Microsoft — Hardware Engineering INTERN (Bengaluru)
-  - Microsoft — Silicon Engineering INTERN (Bengaluru)
+  - Twilio — Software Engineer Intern (January 12th start, 23 weeks) (Remote (India))
 
 ========================================================================

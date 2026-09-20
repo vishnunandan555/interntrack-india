@@ -1,5 +1,20 @@
 {
   "jobs": {
+    "dell-technologies:R270849": {
+      "active": true,
+      "category": "Software",
+      "city_tag": "Bengaluru",
+      "company": "Dell Technologies",
+      "external_id": "R270849",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "posted": "2026-09-20",
+      "title": "Undergraduate Intern",
+      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/R270849"
+    },
     "google:109375266236572358": {
       "active": true,
       "category": "Hardware/Silicon",
@@ -7,7 +22,7 @@
       "company": "Google",
       "external_id": "109375266236572358",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India"
@@ -23,7 +38,7 @@
       "company": "Google",
       "external_id": "109976286780105414",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bengaluru, Karnataka, India",
         "Hyderabad, Telangana, India",
@@ -40,7 +55,7 @@
       "company": "HPE",
       "external_id": "1211843",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bengaluru, Karn\u0101taka, 560048",
         "Bengaluru, Karn\u0101taka, India"
@@ -56,7 +71,7 @@
       "company": "Microsoft",
       "external_id": "1970393556641091",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -71,7 +86,7 @@
       "company": "Microsoft",
       "external_id": "1970393556911730",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -86,7 +101,7 @@
       "company": "Microsoft",
       "external_id": "1970393556971804",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "India, Karnataka, Bangalore"
       ],
@@ -101,7 +116,7 @@
       "company": "Microsoft",
       "external_id": "1970393556997800",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -149,7 +164,7 @@
       "company": "NVIDIA",
       "external_id": "JR2024423",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "India Bengaluru",
         "India, Bengaluru"
@@ -165,7 +180,7 @@
       "company": "Qualcomm",
       "external_id": "446717035053",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Chennai, Tamil N\u0101du, India"
       ],
@@ -180,7 +195,7 @@
       "company": "Qualcomm",
       "external_id": "446719784824",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bangalore, India",
         "Hyderabad, Telang\u0101na, India"
@@ -196,7 +211,7 @@
       "company": "Qualcomm",
       "external_id": "446719785836",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Hyderabad, Telang\u0101na, India"
       ],
@@ -211,7 +226,7 @@
       "company": "Rubrik",
       "external_id": "8166523",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bangalore"
       ],
@@ -226,7 +241,7 @@
       "company": "Rubrik",
       "external_id": "8166537",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bangalore"
       ],
@@ -241,7 +256,7 @@
       "company": "Salesforce",
       "external_id": "JR337715",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "2 Locations",
         "India, Bangalore"
@@ -257,7 +272,7 @@
       "company": "Stripe",
       "external_id": "8031833",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "Bengaluru"
       ],
@@ -265,10 +280,26 @@
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     },
-    "twilio:8190889": {
+    "twilio:8190887": {
       "active": true,
       "category": "Software",
       "city_tag": "Remote (India)",
+      "company": "Twilio",
+      "external_id": "8190887",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "locations": [
+        "Remote - India"
+      ],
+      "posted": "2026-09-16",
+      "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887"
+    },
+    "twilio:8190889": {
+      "active": false,
+      "category": "Software",
+      "city_tag": "Remote (India)",
+      "closed": "2026-09-20",
       "company": "Twilio",
       "external_id": "8190889",
       "first_seen": "2026-09-17",
@@ -287,7 +318,7 @@
       "company": "Walmart Global Tech",
       "external_id": "R-2557935",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "locations": [
         "IN KA BANGALORE Home Office Building 10"
       ],
@@ -296,5 +327,5 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935"
     }
   },
-  "updated_at": "2026-09-19T23:18:39Z"
+  "updated_at": "2026-09-20T23:21:48Z"
 }
