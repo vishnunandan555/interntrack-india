@@ -1,20 +1,23 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-09-22 00:12:39 UTC
+SCRAPE RUN SUMMARY — 2026-09-22 23:41:20 UTC
 ========================================================================
-Runtime:            77.5 seconds
+Runtime:            75.9 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
-Active India Roles: 18
+Active India Roles: 17
 Changes Detected:
-  - New Additions:  +0
-  - Closed Roles:   -3
-  - Reopened Roles: ~2
+  - New Additions:  +1
+  - Closed Roles:   -2
+  - Reopened Roles: ~1
 ------------------------------------------------------------------------
 
+[NEW INTERNSHIPS ADDED]
+  + Red Hat — Software Engineering Intern (Pune) [Software]
+    Apply: https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560
+
 [INTERNSHIPS CLOSED]
-  - Dell Technologies — Undergraduate Intern (Bengaluru)
-  - Qualcomm — Interim Engineering Intern_2027_HW (Bengaluru)
-  - Twilio — Software Engineer Intern (January 12th start, 23 weeks) (Remote (India))
+  - Microsoft — Research Sciences INTERN (Bengaluru)
+  - Salesforce — Summer 2027 Intern - Software Engineer (Bengaluru)
 
 ========================================================================
