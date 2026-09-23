@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-09-23 05:12:36 IST** · 📌 **17** open internships
+> 🕐 Last updated: **2026-09-24 05:20:48 IST** · 📌 **14** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (17)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (14)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -52,7 +52,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Meesho | — |
 | Meta | — |
 | Micron | — |
-| [Microsoft](#microsoft) | **5** |
+| [Microsoft](#microsoft) | **3** |
 | MongoDB | — |
 | Morgan Stanley | — |
 | [NVIDIA](#nvidia) | **1** |
@@ -62,7 +62,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Palo Alto Networks | — |
 | PayPal | — |
 | PhonePe | — |
-| [Qualcomm](#qualcomm) | **3** |
+| [Qualcomm](#qualcomm) | **2** |
 | Razorpay | — |
 | [Red Hat](#red-hat) | **1** |
 | [Rubrik](#rubrik) | **2** |
@@ -139,8 +139,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557000875) ✨ | Hardware/Silicon | Bengaluru | 2026-09-21 | 2026-09-18 |
-| [Hardware Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557000861) ✨ | Hardware/Silicon | Bengaluru | 2026-09-21 | 2026-09-18 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) ✨ | Software | India (Multiple/Other) | 2026-09-18 | 2026-09-17 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) ✨ | AI/ML | India (Multiple/Other) | 2026-09-14 | 2026-09-17 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) ✨ | AI/ML | India (Multiple/Other) | 2026-02-27 | 2026-09-17 |
@@ -159,7 +157,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Interim Engineering Intern_2027_SW](https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com) ✨ | Software | Hyderabad | 2026-09-15 | 2026-09-17 |
 | [Interim Engineering Intern_2027_HW](https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com) ✨ | Software | Bengaluru | 2026-09-09 | 2026-09-17 |
 | [1 year  Internship_SW_CDC](https://careers.qualcomm.com/careers/job/446717035053?domain=qualcomm.com) ✨ | Software | Chennai | 2026-02-24 | 2026-09-17 |
 
