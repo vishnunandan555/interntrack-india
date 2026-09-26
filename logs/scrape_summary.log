@@ -1,23 +1,15 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-09-24 23:56:05 UTC
+SCRAPE RUN SUMMARY — 2026-09-26 00:00:08 UTC
 ========================================================================
-Runtime:            74.4 seconds
+Runtime:            84.7 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
 Active India Roles: 15
 Changes Detected:
-  - New Additions:  +1
-  - Closed Roles:   -2
+  - New Additions:  +0
+  - Closed Roles:   -0
   - Reopened Roles: ~1
 ------------------------------------------------------------------------
-
-[NEW INTERNSHIPS ADDED]
-  + Microsoft — Data Science INTERN (India (Multiple/Other)) [Data]
-    Apply: https://apply.careers.microsoft.com/careers/job/1970393556917520
-
-[INTERNSHIPS CLOSED]
-  - Microsoft — Applied Sciences INTERN (India (Multiple/Other))
-  - Red Hat — Software Engineering Intern (Pune)
 
 ========================================================================
