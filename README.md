@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-09-28 05:23:06 IST** · 📌 **15** open internships
+> 🕐 Last updated: **2026-09-29 06:38:25 IST** · 📌 **13** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (15)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (13)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -62,10 +62,10 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Palo Alto Networks | — |
 | PayPal | — |
 | PhonePe | — |
-| [Qualcomm](#qualcomm) | **3** |
+| [Qualcomm](#qualcomm) | **2** |
 | Razorpay | — |
 | Red Hat | — |
-| [Rubrik](#rubrik) | **2** |
+| [Rubrik](#rubrik) | **1** |
 | Salesforce | — |
 | ServiceNow | — |
 | Snowflake | — |
@@ -150,7 +150,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-08-31 | 2026-09-17 |
+| [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-09-01 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
 
@@ -160,7 +160,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 |---|---|---|---|---|
 | [Interim Engineering Intern_2027_SW](https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com) | Software | Hyderabad | 2026-09-15 | 2026-09-17 |
 | [Interim Engineering Intern_2027_HW](https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com) | Software | Bengaluru | 2026-09-09 | 2026-09-17 |
-| [1 year  Internship_SW_CDC](https://careers.qualcomm.com/careers/job/446717035053?domain=qualcomm.com) | Software | Chennai | 2026-02-24 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
 
@@ -168,7 +167,6 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | Software | Bengaluru | 2026-09-06 | 2026-09-17 |
 | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Software | Bengaluru | 2026-09-06 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
