@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-09-29 06:38:25 IST** · 📌 **13** open internships
+> 🕐 Last updated: **2026-09-30 06:09:40 IST** · 📌 **14** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (13)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (14)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -65,7 +65,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | [Qualcomm](#qualcomm) | **2** |
 | Razorpay | — |
 | Red Hat | — |
-| [Rubrik](#rubrik) | **1** |
+| [Rubrik](#rubrik) | **2** |
 | Salesforce | — |
 | ServiceNow | — |
 | Snowflake | — |
@@ -167,6 +167,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | Software | Bengaluru | 2026-09-06 | 2026-09-17 |
 | [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | Software | Bengaluru | 2026-09-06 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)

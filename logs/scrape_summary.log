@@ -1,19 +1,15 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-09-29 01:07:09 UTC
+SCRAPE RUN SUMMARY — 2026-09-30 00:38:18 UTC
 ========================================================================
-Runtime:            75.9 seconds
+Runtime:            81.8 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
-Active India Roles: 13
+Active India Roles: 14
 Changes Detected:
   - New Additions:  +0
-  - Closed Roles:   -2
-  - Reopened Roles: ~0
+  - Closed Roles:   -0
+  - Reopened Roles: ~1
 ------------------------------------------------------------------------
-
-[INTERNSHIPS CLOSED]
-  - Qualcomm — 1 year  Internship_SW_CDC (Chennai)
-  - Rubrik — Software Engineer - Winter Intern (Bengaluru)
 
 ========================================================================
