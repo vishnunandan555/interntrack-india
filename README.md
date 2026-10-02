@@ -13,7 +13,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-01 06:11:03 IST** · 📌 **14** open internships
+> 🕐 Last updated: **2026-10-02 06:29:52 IST** · 📌 **14** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
@@ -140,7 +140,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) | AI/ML | India (Multiple/Other) | 2026-09-25 | 2026-09-17 |
-| [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) ✨ | Data | India (Multiple/Other) | 2026-09-24 | 2026-09-24 |
+| [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India (Multiple/Other) | 2026-09-24 | 2026-09-24 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India (Multiple/Other) | 2026-09-18 | 2026-09-17 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | India (Multiple/Other) | 2026-02-27 | 2026-09-17 |
 
