@@ -1,64 +1,64 @@
 ========================================================================
 INDIA TECH INTERNSHIPS TRACKER — DETAILED SCRAPE LOG
-Started:  2026-10-02 00:58:32 UTC
-Finished: 2026-10-02 00:59:52 UTC (80.3s)
-Result:   56 succeeded, 0 failed, 14 active India listings
+Started:  2026-10-03 00:35:39 UTC
+Finished: 2026-10-03 00:36:55 UTC (76.3s)
+Result:   56 succeeded, 0 failed, 12 active India listings
 ========================================================================
 
-[00:58:32] [INFO ] Starting scrape for 56 companies with 8 workers (dry_run=False, keyword=None)
-[00:58:34] [INFO ] [OK]   Google                   ( 2.0s) ->   57 postings, 57 interns, 2 India
-[00:58:35] [INFO ] [OK]   Salesforce               ( 3.3s) ->   46 postings, 19 interns, 0 India
-[00:58:36] [INFO ] [OK]   Meta                     ( 1.2s) ->  432 postings, 10 interns, 0 India
-[00:58:37] [INFO ] [OK]   Netflix                  ( 0.3s) ->    4 postings,  3 interns, 0 India
-[00:58:37] [INFO ] [OK]   Apple                    ( 5.5s) ->  140 postings, 87 interns, 0 India
-[00:58:38] [INFO ] [OK]   Razorpay                 ( 0.1s) ->   22 postings,  0 interns, 0 India
-[00:58:38] [INFO ] [OK]   PhonePe                  ( 1.0s) ->   89 postings,  1 interns, 0 India
-[00:58:39] [INFO ] [OK]   Freshworks               ( 1.4s) ->  125 postings,  0 interns, 0 India
-[00:58:39] [INFO ] [OK]   Meesho                   ( 0.5s) ->   57 postings,  0 interns, 0 India
-[00:58:40] [INFO ] [OK]   Swiggy                   ( 2.0s) ->  168 postings,  0 interns, 0 India
-[00:58:40] [INFO ] [OK]   CRED                     ( 0.2s) ->    8 postings,  0 interns, 0 India
-[00:58:40] [INFO ] [OK]   Groww                    ( 0.1s) ->    7 postings,  2 interns, 0 India
-[00:58:40] [INFO ] [OK]   InMobi                   ( 0.1s) ->   72 postings,  1 interns, 0 India
-[00:58:40] [INFO ] [OK]   Zeta                     ( 0.5s) ->   25 postings,  0 interns, 0 India
-[00:58:40] [INFO ] [OK]   Zomato                   ( 0.5s) ->    3 postings,  1 interns, 0 India
-[00:58:41] [INFO ] [OK]   Qualcomm                 ( 7.4s) ->   96 postings, 87 interns, 2 India
-[00:58:42] [INFO ] [OK]   Amazon                   ( 9.8s) ->  637 postings, 351 interns, 0 India
-[00:58:42] [INFO ] [OK]   Cisco                    ( 0.8s) ->   51 postings, 42 interns, 0 India
-[00:58:43] [INFO ] [OK]   AMD                      ( 0.6s) ->   10 postings, 10 interns, 0 India
-[00:58:43] [INFO ] [OK]   Dell Technologies        ( 2.7s) ->  137 postings, 11 interns, 0 India
-[00:58:44] [INFO ] [OK]   HPE                      ( 0.8s) ->   90 postings, 81 interns, 1 India
-[00:58:46] [INFO ] [OK]   Adobe                    (14.1s) ->  195 postings,  9 interns, 0 India
-[00:58:49] [INFO ] [OK]   Microsoft                (16.7s) ->  130 postings, 68 interns, 4 India
-[00:58:49] [INFO ] [OK]   Broadcom (VMware)        ( 5.0s) ->   92 postings,  0 interns, 0 India
-[00:58:49] [INFO ] [OK]   Red Hat                  ( 6.0s) ->   99 postings, 22 interns, 0 India
-[00:58:55] [INFO ] [OK]   NVIDIA                   (23.5s) ->  300 postings, 120 interns, 1 India
-[00:58:56] [INFO ] [OK]   ServiceNow               ( 7.1s) ->  713 postings,  3 interns, 0 India
-[00:58:57] [INFO ] [OK]   Oracle                   (25.3s) ->  999 postings, 17 interns, 0 India
-[00:59:00] [INFO ] [OK]   PayPal                   (14.2s) ->  168 postings,  0 interns, 0 India
-[00:59:01] [INFO ] [OK]   Snowflake                ( 0.4s) ->    9 postings,  6 interns, 0 India
-[00:59:02] [INFO ] [OK]   GitHub                   ( 1.0s) ->   73 postings,  0 interns, 0 India
-[00:59:04] [INFO ] [OK]   Nokia                    ( 6.4s) ->  233 postings, 43 interns, 0 India
-[00:59:04] [INFO ] [OK]   CrowdStrike              (15.4s) ->  208 postings,  4 interns, 0 India
-[00:59:05] [INFO ] [OK]   Palo Alto Networks       (15.7s) ->  300 postings,  1 interns, 0 India
-[00:59:06] [INFO ] [OK]   Intel                    (24.2s) ->  300 postings, 55 interns, 0 India
-[00:59:08] [INFO ] [OK]   Walmart Global Tech      (27.6s) ->  300 postings, 298 interns, 1 India
-[00:59:16] [INFO ] [OK]   Micron                   (20.2s) ->  300 postings, 32 interns, 0 India
-[00:59:18] [INFO ] [OK]   JPMorgan Chase           (16.6s) -> 1000 postings, 107 interns, 0 India
-[00:59:19] [INFO ] [OK]   Workday                  (23.4s) ->  162 postings,  1 interns, 0 India
-[00:59:19] [INFO ] [OK]   Jane Street              ( 0.3s) ->  231 postings, 47 interns, 0 India
-[00:59:19] [INFO ] [OK]   Stripe                   ( 0.1s) ->  713 postings, 14 interns, 1 India
-[00:59:19] [INFO ] [OK]   MongoDB                  ( 0.1s) ->  392 postings,  0 interns, 0 India
-[00:59:19] [INFO ] [OK]   Rubrik                   ( 0.1s) ->  131 postings,  5 interns, 2 India
-[00:59:20] [INFO ] [OK]   Cloudflare               ( 0.1s) ->  402 postings,  1 interns, 0 India
-[00:59:20] [INFO ] [OK]   Datadog                  ( 0.1s) ->  442 postings,  8 interns, 0 India
-[00:59:20] [INFO ] [OK]   Databricks               ( 0.1s) ->  872 postings,  3 interns, 0 India
-[00:59:20] [INFO ] [OK]   Elastic                  ( 0.1s) ->  390 postings,  0 interns, 0 India
-[00:59:20] [INFO ] [OK]   GitLab                   ( 0.1s) ->  205 postings,  0 interns, 0 India
-[00:59:20] [INFO ] [OK]   Twilio                   ( 0.1s) ->  125 postings,  0 interns, 0 India
-[00:59:24] [INFO ] [OK]   Barclays                 (18.4s) ->  300 postings, 27 interns, 0 India
-[00:59:29] [INFO ] [OK]   Wells Fargo              (24.6s) ->  300 postings,  3 interns, 0 India
-[00:59:29] [INFO ] [OK]   Morgan Stanley           (24.7s) ->  300 postings,  2 interns, 0 India
-[00:59:33] [INFO ] [OK]   Visa                     (25.2s) ->  300 postings,  3 interns, 0 India
-[00:59:40] [INFO ] [OK]   Accenture                (36.6s) ->  300 postings, 66 interns, 0 India
-[00:59:41] [INFO ] [OK]   Mastercard               (25.2s) ->  300 postings, 13 interns, 0 India
-[00:59:52] [INFO ] [OK]   Bloomberg                (33.8s) ->  200 postings,  0 interns, 0 India
+[00:35:39] [INFO ] Starting scrape for 56 companies with 8 workers (dry_run=False, keyword=None)
+[00:35:41] [INFO ] [OK]   Google                   ( 2.5s) ->   78 postings, 78 interns, 2 India
+[00:35:42] [INFO ] [OK]   Salesforce               ( 3.3s) ->   49 postings, 21 interns, 0 India
+[00:35:43] [INFO ] [OK]   Apple                    ( 4.1s) ->  140 postings, 89 interns, 0 India
+[00:35:43] [INFO ] [OK]   Netflix                  ( 0.5s) ->    4 postings,  3 interns, 0 India
+[00:35:44] [INFO ] [OK]   Meta                     ( 1.7s) ->  434 postings, 11 interns, 0 India
+[00:35:44] [INFO ] [OK]   Razorpay                 ( 0.3s) ->   21 postings,  0 interns, 0 India
+[00:35:44] [INFO ] [OK]   PhonePe                  ( 1.0s) ->   89 postings,  1 interns, 0 India
+[00:35:46] [INFO ] [OK]   Freshworks               ( 1.3s) ->  123 postings,  0 interns, 0 India
+[00:35:46] [INFO ] [OK]   Meesho                   ( 0.7s) ->   57 postings,  0 interns, 0 India
+[00:35:46] [INFO ] [OK]   Swiggy                   ( 1.9s) ->  167 postings,  0 interns, 0 India
+[00:35:46] [INFO ] [OK]   Groww                    ( 0.1s) ->    7 postings,  2 interns, 0 India
+[00:35:47] [INFO ] [OK]   CRED                     ( 0.3s) ->    8 postings,  0 interns, 0 India
+[00:35:47] [INFO ] [OK]   InMobi                   ( 0.1s) ->   72 postings,  1 interns, 0 India
+[00:35:47] [INFO ] [OK]   Zeta                     ( 0.7s) ->   25 postings,  0 interns, 0 India
+[00:35:47] [INFO ] [OK]   Zomato                   ( 0.4s) ->    3 postings,  1 interns, 0 India
+[00:35:49] [INFO ] [OK]   Amazon                   (10.6s) ->  659 postings, 370 interns, 0 India
+[00:35:50] [INFO ] [OK]   Cisco                    ( 0.3s) ->   50 postings, 40 interns, 0 India
+[00:35:50] [INFO ] [OK]   Dell Technologies        ( 2.8s) ->  135 postings, 12 interns, 0 India
+[00:35:50] [INFO ] [OK]   Qualcomm                 ( 8.6s) ->   97 postings, 88 interns, 0 India
+[00:35:51] [INFO ] [OK]   AMD                      ( 0.6s) ->   10 postings, 10 interns, 0 India
+[00:35:52] [INFO ] [OK]   HPE                      ( 1.2s) ->   89 postings, 80 interns, 1 India
+[00:35:54] [INFO ] [OK]   Microsoft                (14.7s) ->  133 postings, 71 interns, 4 India
+[00:35:54] [INFO ] [OK]   Adobe                    (15.0s) ->  192 postings,  9 interns, 0 India
+[00:35:56] [INFO ] [OK]   Red Hat                  ( 6.5s) ->  100 postings, 21 interns, 0 India
+[00:35:56] [INFO ] [OK]   Broadcom (VMware)        ( 4.8s) ->   92 postings,  0 interns, 0 India
+[00:36:01] [INFO ] [OK]   ServiceNow               ( 6.8s) ->  705 postings,  3 interns, 0 India
+[00:36:02] [INFO ] [OK]   NVIDIA                   (23.6s) ->  300 postings, 121 interns, 1 India
+[00:36:06] [INFO ] [OK]   Oracle                   (27.1s) ->  999 postings, 17 interns, 0 India
+[00:36:08] [INFO ] [OK]   PayPal                   (14.3s) ->  167 postings,  0 interns, 0 India
+[00:36:08] [INFO ] [OK]   Snowflake                ( 0.4s) ->    8 postings,  5 interns, 0 India
+[00:36:09] [INFO ] [OK]   GitHub                   ( 1.0s) ->   73 postings,  0 interns, 0 India
+[00:36:11] [INFO ] [OK]   CrowdStrike              (14.8s) ->  206 postings,  4 interns, 0 India
+[00:36:11] [INFO ] [OK]   Nokia                    ( 5.4s) ->  235 postings, 45 interns, 0 India
+[00:36:12] [INFO ] [OK]   Intel                    (22.0s) ->  300 postings, 58 interns, 0 India
+[00:36:13] [INFO ] [OK]   Palo Alto Networks       (16.1s) ->  300 postings,  1 interns, 0 India
+[00:36:15] [INFO ] [OK]   Walmart Global Tech      (28.1s) ->  300 postings, 298 interns, 1 India
+[00:36:19] [INFO ] [OK]   Micron                   (16.5s) ->  300 postings, 25 interns, 0 India
+[00:36:24] [INFO ] [OK]   Workday                  (23.1s) ->  162 postings,  1 interns, 0 India
+[00:36:27] [INFO ] [OK]   JPMorgan Chase           (18.0s) -> 1000 postings, 107 interns, 0 India
+[00:36:28] [INFO ] [OK]   Jane Street              ( 0.3s) ->  230 postings, 47 interns, 0 India
+[00:36:28] [INFO ] [OK]   Stripe                   ( 0.1s) ->  714 postings, 14 interns, 1 India
+[00:36:28] [INFO ] [OK]   MongoDB                  ( 0.1s) ->  390 postings,  0 interns, 0 India
+[00:36:28] [INFO ] [OK]   Rubrik                   ( 0.1s) ->  128 postings,  5 interns, 2 India
+[00:36:28] [INFO ] [OK]   Cloudflare               ( 0.1s) ->  405 postings,  1 interns, 0 India
+[00:36:28] [INFO ] [OK]   Datadog                  ( 0.1s) ->  444 postings,  8 interns, 0 India
+[00:36:28] [INFO ] [OK]   Databricks               ( 0.1s) ->  885 postings, 11 interns, 0 India
+[00:36:28] [INFO ] [OK]   Elastic                  ( 0.1s) ->  394 postings,  0 interns, 0 India
+[00:36:28] [INFO ] [OK]   GitLab                   ( 0.1s) ->  210 postings,  0 interns, 0 India
+[00:36:28] [INFO ] [OK]   Twilio                   ( 0.1s) ->  127 postings,  0 interns, 0 India
+[00:36:30] [INFO ] [OK]   Barclays                 (17.0s) ->  300 postings, 30 interns, 0 India
+[00:36:35] [INFO ] [OK]   Morgan Stanley           (23.0s) ->  300 postings,  2 interns, 0 India
+[00:36:36] [INFO ] [OK]   Wells Fargo              (24.7s) ->  300 postings,  3 interns, 0 India
+[00:36:41] [INFO ] [OK]   Visa                     (25.6s) ->  300 postings,  3 interns, 0 India
+[00:36:44] [INFO ] [OK]   Mastercard               (25.6s) ->  300 postings, 12 interns, 0 India
+[00:36:46] [INFO ] [OK]   Accenture                (34.7s) ->  300 postings, 70 interns, 0 India
+[00:36:55] [INFO ] [OK]   Bloomberg                (31.4s) ->  203 postings,  1 interns, 0 India
