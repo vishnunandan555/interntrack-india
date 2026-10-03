@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-03 06:06:55 IST** · 📌 **12** open internships
+> 🕐 Last updated: **2026-10-04 05:28:43 IST** · 📌 **14** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (12)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (14)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -62,7 +62,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Palo Alto Networks | — |
 | PayPal | — |
 | PhonePe | — |
-| Qualcomm | — |
+| [Qualcomm](#qualcomm) | **2** |
 | Razorpay | — |
 | Red Hat | — |
 | [Rubrik](#rubrik) | **2** |
@@ -151,6 +151,15 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [PhD Intern, AI ML in Wireless L1/L2 - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | AI/ML | Bengaluru | 2026-09-01 | 2026-09-17 |
+
+[⬆️ Back to Top](#top)
+
+## Qualcomm
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [Interim Engineering Intern_2027_SW](https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com) | Software | Hyderabad | 2026-09-15 | 2026-09-17 |
+| [Interim Engineering Intern_2027_HW](https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com) | Software | Bengaluru | 2026-09-09 | 2026-09-17 |
 
 [⬆️ Back to Top](#top)
 

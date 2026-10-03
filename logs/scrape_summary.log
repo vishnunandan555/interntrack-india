@@ -1,19 +1,15 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-03 00:35:39 UTC
+SCRAPE RUN SUMMARY — 2026-10-03 23:57:27 UTC
 ========================================================================
-Runtime:            76.3 seconds
+Runtime:            75.7 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
-Active India Roles: 12
+Active India Roles: 14
 Changes Detected:
   - New Additions:  +0
-  - Closed Roles:   -2
-  - Reopened Roles: ~0
+  - Closed Roles:   -0
+  - Reopened Roles: ~2
 ------------------------------------------------------------------------
-
-[INTERNSHIPS CLOSED]
-  - Qualcomm — Interim Engineering Intern_2027_HW (Bengaluru)
-  - Qualcomm — Interim Engineering Intern_2027_SW (Hyderabad)
 
 ========================================================================

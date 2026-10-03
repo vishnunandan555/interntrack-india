@@ -208,14 +208,14 @@
       "url": "https://careers.qualcomm.com/careers/job/446717035053?domain=qualcomm.com"
     },
     "qualcomm:446719784824": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "city_tag": "Bengaluru",
       "closed": "2026-10-03",
       "company": "Qualcomm",
       "external_id": "446719784824",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "locations": [
         "Bangalore, India",
         "Hyderabad, Telang\u0101na, India"
@@ -225,14 +225,14 @@
       "url": "https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com"
     },
     "qualcomm:446719785836": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "city_tag": "Hyderabad",
       "closed": "2026-10-03",
       "company": "Qualcomm",
       "external_id": "446719785836",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "locations": [
         "Hyderabad, Telang\u0101na, India"
       ],
@@ -368,5 +368,5 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2557935"
     }
   },
-  "updated_at": "2026-10-03T00:36:55Z"
+  "updated_at": "2026-10-03T23:58:43Z"
 }
