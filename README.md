@@ -13,12 +13,12 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 [![SEO & Marketing](https://img.shields.io/badge/Marketing_Plan-SEO.md-059669?style=for-the-badge&logo=google&logoColor=white)](SEO.md)
 [![Scrape Logs](https://img.shields.io/badge/Scrape_Logs-logs%2F-334155?style=for-the-badge&logo=files&logoColor=white)](logs/)
 
-> 🕐 Last updated: **2026-10-06 07:20:15 IST** · 📌 **13** open internships
+> 🕐 Last updated: **2026-10-07 06:23:59 IST** · 📌 **15** open internships
 > · ✨ = added in the last 7 days
 
 ⭐ Star this repository to keep track of new openings — or watch *Activity* for commits titled “new internship(s)”.
 
-[⬇️ **Skip directly to Open Internship Postings (13)**](#open-internships)
+[⬇️ **Skip directly to Open Internship Postings (15)**](#open-internships)
 
 | Company | Open Internships in India |
 |---|:---:|
@@ -50,7 +50,7 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Jane Street | — |
 | Mastercard | — |
 | Meesho | — |
-| Meta | — |
+| [Meta](#meta) | **2** |
 | Micron | — |
 | [Microsoft](#microsoft) | **3** |
 | MongoDB | — |
@@ -132,6 +132,15 @@ from official careers APIs daily (at 03:00 AM IST) by GitHub Actions.
 | Role | Category | Hub / Location | Posted | First seen |
 |---|---|---|---|---|
 | [College Intern](https://careers.hpe.com/us/en/job/1211843) | Software | Bengaluru | 2026-09-01 | 2026-09-17 |
+
+[⬆️ Back to Top](#top)
+
+## Meta
+
+| Role | Category | Hub / Location | Posted | First seen |
+|---|---|---|---|---|
+| [ASIC Engineer Intern, Design](https://www.metacareers.com/jobs/1631077978652493) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
+| [ASIC Engineer Intern - Infra Silicon Enablement](https://www.metacareers.com/jobs/939474918844068) ✨ | Hardware/Silicon | Bengaluru | — | 2026-10-07 |
 
 [⬆️ Back to Top](#top)
 
