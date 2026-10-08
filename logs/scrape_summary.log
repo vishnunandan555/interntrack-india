@@ -1,21 +1,15 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-07 00:52:42 UTC
+SCRAPE RUN SUMMARY — 2026-10-08 01:09:04 UTC
 ========================================================================
-Runtime:            77.2 seconds
+Runtime:            81.2 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
-Active India Roles: 15
+Active India Roles: 16
 Changes Detected:
-  - New Additions:  +2
+  - New Additions:  +0
   - Closed Roles:   -0
-  - Reopened Roles: ~0
+  - Reopened Roles: ~1
 ------------------------------------------------------------------------
-
-[NEW INTERNSHIPS ADDED]
-  + Meta — ASIC Engineer Intern - Infra Silicon Enablement (Bengaluru) [Hardware/Silicon]
-    Apply: https://www.metacareers.com/jobs/939474918844068
-  + Meta — ASIC Engineer Intern, Design (Bengaluru) [Hardware/Silicon]
-    Apply: https://www.metacareers.com/jobs/1631077978652493
 
 ========================================================================
