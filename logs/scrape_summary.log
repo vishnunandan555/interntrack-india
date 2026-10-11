@@ -1,15 +1,18 @@
 ========================================================================
-SCRAPE RUN SUMMARY — 2026-10-10 01:03:54 UTC
+SCRAPE RUN SUMMARY — 2026-10-11 00:17:36 UTC
 ========================================================================
-Runtime:            81.5 seconds
+Runtime:            79.4 seconds
 Companies Scraped:  56 total
   - Succeeded:      56
   - Failed:         0
-Active India Roles: 16
+Active India Roles: 15
 Changes Detected:
   - New Additions:  +0
-  - Closed Roles:   -0
+  - Closed Roles:   -1
   - Reopened Roles: ~0
 ------------------------------------------------------------------------
+
+[INTERNSHIPS CLOSED]
+  - Microsoft — Applied Sciences INTERN (India (Multiple/Other))
 
 ========================================================================
